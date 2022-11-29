@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-08-11T18:39:04.392941900Z</date>
+  <millis>1660243144392</millis>
+  <nanos>941900</nanos>
+  <sequence>0</sequence>
+  <logger>addSuffixToPath.AddSuffixToPath</logger>
+  <level>SEVERE</level>
+  <class>addSuffixToPath.AddSuffixToPath</class>
+  <method>addSuffix</method>
+  <thread>1</thread>
+  <message>No such file: src/main/resources/folderWithFiles/File1.txt</message>
+</record>
+<record>
+  <date>2022-08-11T18:39:04.423859300Z</date>
+  <millis>1660243144423</millis>
+  <nanos>859300</nanos>
+  <sequence>1</sequence>
+  <logger>addSuffixToPath.AddSuffixToPath</logger>
+  <level>SEVERE</level>
+  <class>addSuffixToPath.AddSuffixToPath</class>
+  <method>addSuffix</method>
+  <thread>1</thread>
+  <message>No such file: src/main/resources/folderWithFiles/File2.txt</message>
+</record>
+<record>
+  <date>2022-08-11T18:39:04.424856100Z</date>
+  <millis>1660243144424</millis>
+  <nanos>856100</nanos>
+  <sequence>2</sequence>
+  <logger>addSuffixToPath.AddSuffixToPath</logger>
+  <level>SEVERE</level>
+  <class>addSuffixToPath.AddSuffixToPath</class>
+  <method>addSuffix</method>
+  <thread>1</thread>
+  <message>No such file: src/main/resources/folderWithFiles/File3.txt</message>
+</record>
+</log>
