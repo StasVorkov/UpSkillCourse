@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.efimchick.ifmo.util","c":"ResultTable","l":"addResultsCourse(CourseResult)","u":"addResultsCourse(com.efimchick.ifmo.util.CourseResult)"},{"p":"com.efimchick.ifmo.util","c":"ResultTable","l":"createResultTable()"},{"p":"com.efimchick.ifmo.util","c":"ResultTable","l":"ResultTable()","u":"%3Cinit%3E()"}];updateSearchResults();
