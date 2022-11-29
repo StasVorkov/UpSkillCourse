@@ -1,0 +1,6 @@
+com\ws\sort\parseString\ParseString.class
+com\ws\sort\inputArrayForNextSort\InputArrayForNextSort.class
+com\ws\sort\startMain\StartMain.class
+com\ws\sort\sorting\Sorting.class
+com\ws\sort\printArrayToSystemOut\PrintArrayToSystemOut.class
+com\ws\sort\validator\Validator.class

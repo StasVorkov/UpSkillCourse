@@ -1,0 +1,142 @@
+2022-08-06 12:53:31 INFO  Sorting:14 - Start parse
+2022-08-06 12:53:31 INFO  Sorting:17 - Parsed successfull
+2022-08-06 12:53:31 INFO  Sorting:13 - Start sort
+2022-08-06 12:53:31 INFO  Sorting:18 - Sorted successfull
+2022-08-06 12:53:42 INFO  Sorting:14 - Start parse
+2022-08-06 12:53:42 ERROR Sorting:19 - Incorrect input
+2022-08-06 12:53:42 INFO  Sorting:13 - Start sort
+2022-08-06 12:53:42 ERROR Sorting:20 - Validaton of array failed
+2022-08-06 12:59:42 INFO  Sorting:13 - Start sort
+2022-08-06 12:59:42 INFO  Sorting:17 - Sorted successfull
+2022-08-06 12:59:42 INFO  Sorting:13 - Start sort
+2022-08-06 12:59:42 INFO  Sorting:17 - Sorted successfull
+2022-08-06 12:59:42 INFO  Sorting:13 - Start sort
+2022-08-06 12:59:42 INFO  Sorting:17 - Sorted successfull
+2022-08-06 12:59:42 INFO  Sorting:13 - Start sort
+2022-08-06 12:59:42 INFO  Sorting:17 - Sorted successfull
+2022-08-06 12:59:42 INFO  Sorting:13 - Start sort
+2022-08-06 12:59:42 INFO  Sorting:17 - Sorted successfull
+2022-08-06 12:59:42 INFO  Sorting:13 - Start sort
+2022-08-06 12:59:42 ERROR Sorting:19 - Validaton of array failed
+2022-08-06 12:59:42 INFO  Sorting:13 - Start sort
+2022-08-06 12:59:42 ERROR Sorting:19 - Validaton of array failed
+2022-08-06 12:59:42 INFO  Sorting:13 - Start sort
+2022-08-06 12:59:42 INFO  Sorting:17 - Sorted successfull
+2022-08-06 12:59:42 INFO  Sorting:13 - Start sort
+2022-08-06 12:59:42 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:03:01 INFO  Sorting:13 - Start sort
+2022-08-06 13:03:01 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:03:01 INFO  Sorting:13 - Start sort
+2022-08-06 13:03:01 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:03:01 INFO  Sorting:13 - Start sort
+2022-08-06 13:03:01 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:03:01 INFO  Sorting:13 - Start sort
+2022-08-06 13:03:01 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:03:01 INFO  Sorting:13 - Start sort
+2022-08-06 13:03:01 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:03:01 INFO  Sorting:13 - Start sort
+2022-08-06 13:03:01 ERROR Sorting:19 - Validaton of array failed
+2022-08-06 13:03:01 INFO  Sorting:13 - Start sort
+2022-08-06 13:03:01 ERROR Sorting:19 - Validaton of array failed
+2022-08-06 13:03:01 INFO  Sorting:13 - Start sort
+2022-08-06 13:03:01 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:03:01 INFO  Sorting:13 - Start sort
+2022-08-06 13:03:01 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:05:32 INFO  Sorting:13 - Start sort
+2022-08-06 13:05:32 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:05:32 INFO  Sorting:13 - Start sort
+2022-08-06 13:05:32 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:05:32 INFO  Sorting:13 - Start sort
+2022-08-06 13:05:32 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:05:32 INFO  Sorting:13 - Start sort
+2022-08-06 13:05:32 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:05:32 INFO  Sorting:13 - Start sort
+2022-08-06 13:05:32 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:05:32 INFO  Sorting:13 - Start sort
+2022-08-06 13:05:32 ERROR Sorting:19 - Validaton of array failed
+2022-08-06 13:05:32 INFO  Sorting:13 - Start sort
+2022-08-06 13:05:32 ERROR Sorting:19 - Validaton of array failed
+2022-08-06 13:05:32 INFO  Sorting:13 - Start sort
+2022-08-06 13:05:32 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:05:32 INFO  Sorting:13 - Start sort
+2022-08-06 13:05:32 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:06:12 INFO  Sorting:14 - Start parse
+2022-08-06 13:06:12 INFO  Sorting:17 - Parsed successfull
+2022-08-06 13:06:12 INFO  Sorting:13 - Start sort
+2022-08-06 13:06:12 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:07:39 INFO  Sorting:13 - Start sort
+2022-08-06 13:07:40 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:07:40 INFO  Sorting:13 - Start sort
+2022-08-06 13:07:40 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:07:40 INFO  Sorting:13 - Start sort
+2022-08-06 13:07:40 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:07:40 INFO  Sorting:13 - Start sort
+2022-08-06 13:07:40 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:07:40 INFO  Sorting:13 - Start sort
+2022-08-06 13:07:40 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:07:40 INFO  Sorting:13 - Start sort
+2022-08-06 13:07:40 ERROR Sorting:19 - Validaton of array failed
+2022-08-06 13:07:40 INFO  Sorting:13 - Start sort
+2022-08-06 13:07:40 ERROR Sorting:19 - Validaton of array failed
+2022-08-06 13:07:40 INFO  Sorting:13 - Start sort
+2022-08-06 13:07:40 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:07:40 INFO  Sorting:13 - Start sort
+2022-08-06 13:07:40 INFO  Sorting:17 - Sorted successfull
+2022-08-06 13:09:56 INFO  Sorting:14 - Start parse
+2022-08-06 13:09:56 INFO  Sorting:17 - Parsed successfull
+2022-08-06 13:09:56 INFO  Sorting:13 - Start sort
+2022-08-06 13:09:56 INFO  Sorting:17 - Sorted successfull
+2022-08-16 20:58:16 INFO  Sorting:20 - Start sort
+2022-08-16 20:58:16 INFO  Sorting:23 - Sorted successfull
+2022-08-16 20:58:16 INFO  Sorting:20 - Start sort
+2022-08-16 20:58:16 INFO  Sorting:23 - Sorted successfull
+2022-08-16 20:58:16 INFO  Sorting:20 - Start sort
+2022-08-16 20:58:16 INFO  Sorting:23 - Sorted successfull
+2022-08-16 20:58:16 INFO  Sorting:20 - Start sort
+2022-08-16 20:58:16 INFO  Sorting:23 - Sorted successfull
+2022-08-16 20:58:16 INFO  Sorting:20 - Start sort
+2022-08-16 20:58:16 INFO  Sorting:23 - Sorted successfull
+2022-08-16 20:58:16 INFO  Sorting:20 - Start sort
+2022-08-16 20:58:16 ERROR Sorting:25 - Validaton of array failed
+2022-08-16 20:58:16 INFO  Sorting:20 - Start sort
+2022-08-16 20:58:16 ERROR Sorting:25 - Validaton of array failed
+2022-08-16 20:58:16 INFO  Sorting:20 - Start sort
+2022-08-16 20:58:16 INFO  Sorting:23 - Sorted successfull
+2022-08-16 20:58:16 INFO  Sorting:20 - Start sort
+2022-08-16 20:58:16 INFO  Sorting:23 - Sorted successfull
+2022-08-16 21:01:03 INFO  Sorting:24 - Start sort
+2022-08-16 21:01:03 INFO  Sorting:27 - Sorted successfull
+2022-08-16 21:01:03 INFO  Sorting:24 - Start sort
+2022-08-16 21:01:03 INFO  Sorting:27 - Sorted successfull
+2022-08-16 21:01:03 INFO  Sorting:24 - Start sort
+2022-08-16 21:01:03 INFO  Sorting:27 - Sorted successfull
+2022-08-16 21:01:03 INFO  Sorting:24 - Start sort
+2022-08-16 21:01:03 INFO  Sorting:27 - Sorted successfull
+2022-08-16 21:01:03 INFO  Sorting:24 - Start sort
+2022-08-16 21:01:03 INFO  Sorting:27 - Sorted successfull
+2022-08-16 21:01:03 INFO  Sorting:24 - Start sort
+2022-08-16 21:01:03 ERROR Sorting:29 - Validaton of array failed
+2022-08-16 21:01:03 INFO  Sorting:24 - Start sort
+2022-08-16 21:01:03 ERROR Sorting:29 - Validaton of array failed
+2022-08-16 21:01:03 INFO  Sorting:24 - Start sort
+2022-08-16 21:01:03 INFO  Sorting:27 - Sorted successfull
+2022-08-16 21:01:03 INFO  Sorting:24 - Start sort
+2022-08-16 21:01:03 INFO  Sorting:27 - Sorted successfull
+2022-11-27 20:01:45 INFO  Sorting:24 - Start sort
+2022-11-27 20:01:45 INFO  Sorting:27 - Sorted successfull
+2022-11-27 20:01:45 INFO  Sorting:24 - Start sort
+2022-11-27 20:01:45 INFO  Sorting:27 - Sorted successfull
+2022-11-27 20:01:45 INFO  Sorting:24 - Start sort
+2022-11-27 20:01:45 INFO  Sorting:27 - Sorted successfull
+2022-11-27 20:01:45 INFO  Sorting:24 - Start sort
+2022-11-27 20:01:45 INFO  Sorting:27 - Sorted successfull
+2022-11-27 20:01:45 INFO  Sorting:24 - Start sort
+2022-11-27 20:01:45 INFO  Sorting:27 - Sorted successfull
+2022-11-27 20:01:50 INFO  Sorting:24 - Start sort
+2022-11-27 20:01:50 ERROR Sorting:29 - Validaton of array failed
+2022-11-27 20:01:50 INFO  Sorting:24 - Start sort
+2022-11-27 20:01:50 ERROR Sorting:29 - Validaton of array failed
+2022-11-27 20:01:50 INFO  Sorting:24 - Start sort
+2022-11-27 20:01:50 INFO  Sorting:27 - Sorted successfull
+2022-11-27 20:01:50 INFO  Sorting:24 - Start sort
+2022-11-27 20:01:50 INFO  Sorting:27 - Sorted successfull
